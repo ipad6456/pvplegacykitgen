@@ -1,0 +1,9 @@
+button{
+    border-radius: 50%;
+    height: 4rem;
+    background-image: linear-gradient(to right, cyan, magenta);
+}
+body{
+    background-image: linear-gradient(to right, orange, lime);
+    text-align: center;
+}
